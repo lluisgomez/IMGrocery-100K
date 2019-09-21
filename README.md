@@ -12,4 +12,4 @@ A particularly interesting aspect of this dataset is that the interplay between 
 
 Contact us if you want to get access to the dataset and/or if you want to collaborate in the IMGrocery-100K creation process.
 
-Diego E. Apéstegui, Lluís Gómez, Dimosthenis Karatzas. Computer Vision Centre, Universitat Autònoma de Barcelona, Spain.
+Diego E. Apéstegui, Lluís Gómez, Dimosthenis Karatzas. Computer Vision Centre, Universitat Autònoma de Barcelona.
